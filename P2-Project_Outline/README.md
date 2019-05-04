@@ -39,9 +39,9 @@ This is a high-level outline of my project. It may change over time as my mentor
 
 *Java with [Google's AppEngine](https://cloud.google.com/appengine/)
 *[Firebase](https://firebase.google.com/)
-[Google's  Vision API](https://cloud.google.com/vision/?hl=en_US&_ga=2.248130688.-64059599.15359364)
+*[Google's  Vision API](https://cloud.google.com/vision/?hl=en_US&_ga=2.248130688.-64059599.15359364)
 
 ### What I'll Have to Learn
-React or React Native
-how to set up & use Google's AppEngine & APIS
-Machine learning model training
+*React or React Native
+*how to set up & use Google's AppEngine & APIS
+*Machine learning model training
