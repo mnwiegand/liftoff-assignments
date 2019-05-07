@@ -1,4 +1,4 @@
-# Project Outline
+# Project Outlines
 This is a high-level outline of my project. It may change over time as my mentor provides feedback and direction to help sharpen ideas.
 
 ## Assignment Description
@@ -44,10 +44,26 @@ This is a high-level outline of my project. It may change over time as my mentor
 
 3. Maps GPS to optimize routes for picking up inventory direct from vendors' studios
 
-4.
+4. Workflow management tracker
+    *check off list to-dos of receiving inventory, dated & marking which staff completed
+        1. delivery accepted
+        2. box unpacked
+        3. invoice & packing slip received, esp. digital file of invoice to expedite intake
+        4. contents match invoice
+        5. buyer approves actual retail prices, if different from vendors' MSRP staff enter into BachSnapper app
+        6. if using a separate POS system, csv is exported to be imported into POS system
+        7. approved invoice sent to Finance/Bookkeeping to be paid
+        8. Finance/Bookkeeping confirm check #, amount & date sent
+        9. Finance/Bookkeeping confirm date check cashed
 
-5. Payment processing
-6.
+
+5. Curated selections to appear to shoppers in app, on website, or on alternate sales channels
+    * select which goods may appear where (may not want 100% of everything in stock to appear, for example out of season or leading up to official release dates)
+    * shoppers have ability to create registries or wish-lists
+    * visual history of purchase history
+    * ability to tag purchase with meaningful description to remind self later "gift for (name)"
+
+6. Payment processing. Third party?0
 
 
 ### Technologies
@@ -62,4 +78,4 @@ This is a high-level outline of my project. It may change over time as my mentor
 ### What I'll Have to Learn
 *React or React Native
 *how to set up & use Google's AppEngine & APIS
-*Machine learning model training
+*may use machine learning model training
