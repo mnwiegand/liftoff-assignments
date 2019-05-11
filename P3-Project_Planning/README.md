@@ -6,17 +6,17 @@
 ## Submission Instructions
 
 ### Wireframes
-##Version 1:
-#* [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s/r7C56)
-#* [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s/r7C56?f=N4IgUiBcCMA0IDkoAZ4GEpxAGU%2FAQniALJEBaRA0lANoC6AvkA%3D%3D)
+## Version 1:
+# * [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s/r7C56)
+# * [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s/r7C56?f=N4IgUiBcCMA0IDkoAZ4GEpxAGU%2FAQniALJEBaRA0lANoC6AvkA%3D%3D)
 
 * ![Opening View](/images/openView.png)
 * ![Register](/images/registration.png)
 * ![User #1, add items](/images/addItems.png)
 * ![Guest View](/images/guestView.png)
 
-##Version 2:
-#* [Moqups.com](https://app.moqups.com/rgGAcBTkPz/edit/page/aa9df7b72)
+## Version 2:
+# * [Moqups.com](https://app.moqups.com/rgGAcBTkPz/edit/page/aa9df7b72)
 
 ### Project Tracker
 
