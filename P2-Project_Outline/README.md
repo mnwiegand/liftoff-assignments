@@ -6,10 +6,12 @@ This is a high-level outline of my project. It may change over time as my mentor
 
 ### Overview
 
-####BatchSnapper: a mobile or web app for retail of small batches and one of a kind items by local artists and artisans
+####BatchSnapper: a mobile or web app for wholesale, consignement &/or retail of small batches
+                    of one of a kind items by local artists and artisans
 
     *User #1 : the maker, artist or artisan
-    *User #2 : the retail shop manager or buyer that wants to purchase User #1's items at wholesale or sell those items on consignment
+    *User #2 : the retail shop manager or buyer that wants to purchase at wholesale
+                or consign User #1's items
     *User #3 : the retail staff handling shipping, receiving, stocking, sales floor
     *User #4 : the shoppers from the general public
     *User #5 : corporate or non-profit shopping accounts (holiday or patron gifts)
