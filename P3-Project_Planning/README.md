@@ -5,12 +5,12 @@
 
 ### Wireframes
  [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s)
-* ![Opening View](/images/openView.png)
-* ![Register](/images/registrationView.png)
-* ![Registered Vendor View](/images/user1PostSignInView.png)
-* ![User #1, add items](/images/itemCaptureView.png)
-* ![Registered Wholesale Buyer's View](/images/user2PostSignInView.png)
-* ![Registered Shopper View (general public)](/images/retailShopperPostSignInView.png)
+* ![Opening View](P3-Project_Planning/images/openView.png)
+* ![Register](P3-Project_Planning/images/registrationView.png)
+* ![Registered Vendor View](P3-Project_Planning/images/user1PostSignInView.png)
+* ![User #1, add items](P3-Project_Planning/images/itemCaptureView.PNG)
+* ![Registered Wholesale Buyer's View](P3-Project_Planning/images/user2PostSignInView.png)
+* ![Registered Shopper View (general public)](P3-Project_Planning/images/retailShopperPostSignInView.png)
 
 
 
