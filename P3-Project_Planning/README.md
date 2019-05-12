@@ -5,12 +5,12 @@
 
 ### Wireframes
  [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s)
-* ![Opening View](P3-Project_Planning/images/openView.png)
-* ![Register](P3-Project_Planning/images/registrationView.png)
-* ![Registered Vendor View](P3-Project_Planning/images/user1PostSignInView.png)
-* ![User #1, add items](P3-Project_Planning/images/itemCaptureView.PNG)
-* ![Registered Wholesale Buyer's View](P3-Project_Planning/images/user2PostSignInView.png)
-* ![Registered Shopper View (general public)](P3-Project_Planning/images/retailShopperPostSignInView.png)
+* ![Opening View](https://github.com/mnwiegand/liftoff-assignments/blob/master/P3-Project_Planning/images/openView.png)
+* ![Register](https://github.com/mnwiegand/liftoff-assignments/blob/master/P3-Project_Planning/images/registrationView.png)
+* ![Registered Vendor View](https://github.com/mnwiegand/liftoff-assignments/blob/master/P3-Project_Planning/images/user1PostSignInView.png)
+* ![User #1, add items](https://github.com/mnwiegand/liftoff-assignments/blob/master/P3-Project_Planning/images/itemCaptureView.PNG)
+* ![Registered Wholesale Buyer's View](https://github.com/mnwiegand/liftoff-assignments/blob/master/P3-Project_Planning/images/user2PostSignInView.png)
+* ![Registered Shopper View (general public)](https://github.com/mnwiegand/liftoff-assignments/blob/master/P3-Project_Planning/images/retailShopperPostSignInView.png)
 
 
 
