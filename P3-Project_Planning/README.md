@@ -3,15 +3,16 @@
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff-OLD/assignments/planning/)
 
-## Submission Instructions
-
 ### Wireframes
-## Version 1:
-# [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s)
+ [Balsamiq.cloud](https://balsamiq.cloud/stxka7/p9l7w6s)
 * ![Opening View](/images/openView.png)
-* ![Register](/images/registration.png)
-* ![User #1, add items](/images/addItems.png)
-* ![Guest View](/images/guestView.png)
+* ![Register](/images/registrationView.png)
+* ![Registered Vendor View](/images/user1PostSignInView.png)
+* ![User #1, add items](/images/itemCaptureView.png)
+* ![Registered Wholesale Buyer's View](/images/user2PostSignInView.png)
+* ![Registered Shopper View (general public)](/images/retailShopperPostSignInView.png)
+
+
 
 ### Project Tracker
 
