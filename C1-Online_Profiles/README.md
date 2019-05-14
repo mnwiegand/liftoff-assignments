@@ -10,4 +10,4 @@
 [Miriam Wiegand on LinkedIn](https://www.linkedin.com/in/miriam-wiegand-18b14142/)
 
 ### Resume
-![PDF of my resume](https://github.com/mnwiegand/liftoff-assignments/blob/master/C1-Online_Profiles/images/MWiegand_Resume.pdf)
+![PDF of my resume](https://github.com/mnwiegand/liftoff-assignments/blob/master/C1-Online_Profiles/MWiegand_Resume.pdf)
